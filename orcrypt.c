@@ -35,5 +35,6 @@ int main(int argc, char **argv){
         putchar(new_data[data_counter]);
         data_counter++;
     }
+    puts("\n");
     return 0;
 }
